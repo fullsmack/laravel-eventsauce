@@ -26,7 +26,7 @@
     "require": {
         "php": "^7.3",
         "ext-json": "*",
-        "eventsauce/eventsauce": "^0.7.1",
+        "eventsauce/eventsauce": "^0.8.0",
         "illuminate/bus": "^5.7|^5.8|^6.0|^7.0",
         "illuminate/container": "^5.7|^5.8|^6.0|^7.0",
         "illuminate/queue": "^5.7|^5.8|^6.0|^7.0",
